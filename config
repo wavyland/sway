@@ -1,2 +1,3 @@
 default_border pixel 0
 output HEADLESS-1 pos 0 0 res 1920x1080
+output HEADLESS-1 bg /etc/sway/background.jpg fill
